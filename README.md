@@ -1,13 +1,13 @@
-# FabLab Zürich Laser Intro
-A quick and easy introduction to laser cutting at [FabLab Zürich](https://zurich.fablab.ch/).
+# FabLab Zürich Laser Einführung
+Eine kurze, einfache Einführung zum Laser im [FabLab Zürich](https://zurich.fablab.ch/).
 
-## What's a FabLab?
-A FabLab is an open workshop for digital fabrication.
+## Was ist ein FabLab?
+Ein FabLab ist eine offene Werkstatt für digitale Fabrikation.
 
-Here's a [short presentation](http://www.tamberg.org/fablabzurich/2017/WasIstEinFabLab.pdf) of the general idea.
+Hier eine kurze [Präsentation](http://www.tamberg.org/fablabzurich/2017/WasIstEinFabLab.pdf) der Idee dahinter.
 
-## What's a laser?
-A laser or laser cutter cuts plywood, cardboard, leather, etc. (but [no PVC](https://lasergods.com/can-i-cut-vinyl-pvc-in-a-laser/)) with light.
+## Was ist ein Laser?
+Ein Laser oder Laser-Cutter schneidet Sperrholz, Karton, Leder, usw. (aber [kein PVC](https://lasergods.com/can-i-cut-vinyl-pvc-in-a-laser/)) mit Licht.
 
 It comes with a [software tool](https://lightburnsoftware.com/) to configure speed and power settings.
 
