@@ -71,7 +71,7 @@ Stelle sicher, dass der [Luftfilter](http://wiki.zurich.fablab.ch/BOFA_AD2000_iQ
 
 Schliesse immer den Deckel vor dem Schneiden.
 
-Lasse den Laser nie unbeaufsichtigt.
+Lasse den Laser nie unbeaufsichtigt laufen.
 
 ### Gib nicht auf!
 Passe Dein Design und die Einstellungen an, versuch's nochmal.
