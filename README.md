@@ -22,7 +22,7 @@ Der Laser-Cutter kann eine Linie entweder schneiden oder gravieren.
 
 Falls Du beides brauchst, verwende verschiedene Farben.
 
-## Runterladen und lasern lassen
+## Runterladen und lasern
 So dauert's etwa 15 Minuten, falls ein Laser frei ist.
 
 ### Lade ein Design runter
