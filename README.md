@@ -74,9 +74,11 @@ Schliesse immer den Deckel vor dem Schneiden.
 Lasse den Laser nie unbeaufsichtigt laufen.
 
 ### Gib nicht auf
-Passe Dein Design und die Einstellungen an, versuch's nochmal.
+Passe Dein Design und die Einstellungen an.
 
-Gib nicht auf, Du wirst es schaffen :)
+Versuch's nochmal und lerne aus Fehlern.
+
+Gib nicht auf, Du wirst es schaffen!
 
 ## Ressourcen
 * [Inkscape 2D Design Software Doku](https://inkscape-manuals.readthedocs.io/en/latest/)
