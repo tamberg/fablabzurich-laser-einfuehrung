@@ -43,19 +43,19 @@ Dieser Weg dauert mehr als 30 Minuten, ist aber Deine Zeit wert.
 
 Kein Laptop? Nutze einen unserer Computer.
 
-### Set up Inkscape
-Set _File > Document properties >_ [display units](https://inkscape-manuals.readthedocs.io/en/latest/managing-workspace.html?#document-properties-dialog) to _mm_.
+### Richte Inkscape ein
+Setze _File > Document properties >_ [display units](https://inkscape-manuals.readthedocs.io/en/latest/managing-workspace.html?#document-properties-dialog) auf _mm_.
 
-Set _Object > Fill and stroke >_ [stroke width](https://inkscape-manuals.readthedocs.io/en/latest/fill-and-stroke-dialog.html) to _0.01 mm_.
+Setze _Object > Fill and stroke >_ [stroke width](https://inkscape-manuals.readthedocs.io/en/latest/fill-and-stroke-dialog.html) auf _0.01 mm_.
 
-Enable _View > Display mode > [x] Visible hairlines_.
+Wähle _View > Display mode > [x] Visible hairlines_ an.
 
-### Create your design
-Draw some [squares](https://inkscape-manuals.readthedocs.io/en/latest/squares-and-rectangles.html) and [circles](https://inkscape-manuals.readthedocs.io/en/latest/circles-ellipses-and-arcs.html).
+### Kreiere Dein Design
+Zeichne einige [Rechtecke](https://inkscape-manuals.readthedocs.io/en/latest/squares-and-rectangles.html) und [Kreise](https://inkscape-manuals.readthedocs.io/en/latest/circles-ellipses-and-arcs.html).
 
-[Align and distribute](https://inkscape-manuals.readthedocs.io/en/latest/align-and-distribute.html) them.
+[Aligniere und Verteile](https://inkscape-manuals.readthedocs.io/en/latest/align-and-distribute.html) diese.
 
-[Save as SVG](https://inkscape-manuals.readthedocs.io/en/latest/saving.html) or [PDF](https://inkscape-manuals.readthedocs.io/en/latest/export-pdf.html).
+[Sichere als SVG](https://inkscape-manuals.readthedocs.io/en/latest/saving.html) oder [PDF](https://inkscape-manuals.readthedocs.io/en/latest/export-pdf.html).
 
 ### Schneide das Design
 Frage die Labmanager*in um Hilfe mit dem Laser.
