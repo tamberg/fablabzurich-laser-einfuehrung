@@ -9,11 +9,11 @@ Hier eine kurze [Präsentation](http://www.tamberg.org/fablabzurich/2017/WasIstE
 ## Was ist ein Laser?
 Ein Laser oder Laser-Cutter schneidet Sperrholz, Karton, Leder, usw. (aber [kein PVC](https://lasergods.com/can-i-cut-vinyl-pvc-in-a-laser/)) mit Licht.
 
-It comes with a [software tool](https://lightburnsoftware.com/) to configure speed and power settings.
+Dazu gibt's eine [Software](https://lightburnsoftware.com/) um die Geschwindigkeit und Stärke des Lasers zu konfigurieren.
 
-We've got a [blue AKJ_6090](http://wiki.zurich.fablab.ch/AKJ_6090) and a [red TT900](http://wiki.zurich.fablab.ch/TT900) laser cutter.
+Wir haben einen [blauen AKJ AKJ_6090](http://wiki.zurich.fablab.ch/AKJ_6090) und einen [roten TT900](http://wiki.zurich.fablab.ch/TT900) Laser.
 
-They cut sheets of 600 x 900 mm, < 10 mm.
+Beide schneiden Platten von 600 x 900 mm, < 10 mm.
 
 ## What's a design?
 A design (for a laser) is a vector based 2D drawing.
