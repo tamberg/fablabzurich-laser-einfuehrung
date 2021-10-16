@@ -16,7 +16,7 @@ Wir haben einen [blauen AKJ AKJ_6090](http://wiki.zurich.fablab.ch/AKJ_6090) und
 Beide schneiden Platten von 600 x 900 mm, < 10 mm.
 
 ## Was ist ein Design?
-Ein Design (für den Laser) ist eine Vektor-basierte, zweidimensionale Zeichnung.
+Ein Design (für den Laser) ist eine Vektor-basierte 2-dimensionale Zeichnung.
 
 Der Laser-Cutter kann Linien entweder schneiden oder gravieren.
 
