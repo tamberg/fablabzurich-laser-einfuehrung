@@ -18,7 +18,7 @@ Beide schneiden Platten von 600 x 900 mm, < 10 mm.
 ## Was ist ein Design?
 Ein Design (für den Laser) ist eine Vektor-basierte zweidimensionale Zeichnung.
 
-Der Laser-Cutter kann jede Linie entweder schneiden oder gravieren.
+Der Laser-Cutter kann eine Linie entweder schneiden oder gravieren.
 
 Falls Du beides brauchst, verwende verschiedene Farben.
 
