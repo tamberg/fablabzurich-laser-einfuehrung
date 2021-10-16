@@ -66,20 +66,20 @@ Stelle Geschwindigkeit und Stärke ein.
 
 Setze den Fokus und den Urpsrung.
 
-### Achtung
+### Bleibe Gesund!
 Stelle sicher, dass der [Luftfilter](http://wiki.zurich.fablab.ch/BOFA_AD2000_iQ) eingeschaltet ist.
 
 Schliesse immer den Deckel vor dem Schneiden.
 
 Lasse den Laser nie unbeaufsichtigt.
 
-### Iterate...
-Adapt your design and your settings, try again.
+### Gib nicht auf!
+Passe Dein Design und die Einstellungen an, versuch's nochmal.
 
-Keep going, you will get there :)
+Gib nicht auf, Du wirst es schaffen :)
 
-## Resources
-* [Inkscape 2D design software docs](https://inkscape-manuals.readthedocs.io/en/latest/)
-* [LightBurn laser software docs](https://github.com/LightBurnSoftware/Documentation/blob/master/README.md)
-* [AKJ6090 laser tutorial](http://wiki.zurich.fablab.ch/images/9/97/Anleitung_AKJ6090.pdf)
+## Ressourcen
+* [Inkscape 2D Design Software Docu](https://inkscape-manuals.readthedocs.io/en/latest/)
+* [LightBurn Laser Software Docu](https://github.com/LightBurnSoftware/Documentation/blob/master/README.md)
+* [AKJ6090 Laser Anleitung](http://wiki.zurich.fablab.ch/images/9/97/Anleitung_AKJ6090.pdf)
 * [FabLab Zürich Wiki](http://wiki.zurich.fablab.ch/)
