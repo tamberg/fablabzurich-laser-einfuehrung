@@ -33,7 +33,7 @@ Oder nutze einen Design Generator, z.B. für [Schachteln](https://ddg.co/?q=box+
 Unsere Laser Software liest DXF, SVG oder PDF Dateien.
 
 ### Schneide das Design
-Frage die Labmanager*in um Hilfe mit dem Laser-Cutter.
+Frage die Labmanager*in um Hilfe mit dem Laser.
 
 ## The hard way
 This takes more than 30 minutes, but it's worth your time.
@@ -57,14 +57,14 @@ Draw some [squares](https://inkscape-manuals.readthedocs.io/en/latest/squares-an
 
 [Save as SVG](https://inkscape-manuals.readthedocs.io/en/latest/saving.html) or [PDF](https://inkscape-manuals.readthedocs.io/en/latest/export-pdf.html).
 
-### Cut your design
-Ask the lab manager for help with the laser cutter.
+### Schneide das Design
+Frage die Labmanager*in um Hilfe mit dem Laser.
 
-Take notes and try it yourself next time.
+Notiere Dir alles und versuche es selbst.
 
-Configure laser speed and power.
+Stelle Geschwindigkeit und Stärke ein.
 
-Set laser focus and origin.
+Setze den Fokus und den Urpsrung.
 
 ### Stay safe
 Make sure the [air filter](http://wiki.zurich.fablab.ch/BOFA_AD2000_iQ) is switched on.
