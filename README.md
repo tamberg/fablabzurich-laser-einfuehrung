@@ -79,7 +79,7 @@ Passe Dein Design und die Einstellungen an, versuch's nochmal.
 Gib nicht auf, Du wirst es schaffen :)
 
 ## Ressourcen
-* [Inkscape 2D Design Software Docu](https://inkscape-manuals.readthedocs.io/en/latest/)
-* [LightBurn Laser Software Docu](https://github.com/LightBurnSoftware/Documentation/blob/master/README.md)
+* [Inkscape 2D Design Software Doku](https://inkscape-manuals.readthedocs.io/en/latest/)
+* [LightBurn Laser Software Doku](https://github.com/LightBurnSoftware/Documentation/blob/master/README.md)
 * [AKJ6090 Laser Anleitung](http://wiki.zurich.fablab.ch/images/9/97/Anleitung_AKJ6090.pdf)
 * [FabLab Zürich Wiki](http://wiki.zurich.fablab.ch/)
