@@ -67,7 +67,7 @@ Stelle Geschwindigkeit und Stärke ein.
 Setze den Fokus und den Urpsrung.
 
 ### Bleibe Gesund
-Stelle sicher, dass der [Luftfilter](http://wiki.zurich.fablab.ch/BOFA_AD2000_iQ) immer eingeschaltet ist.
+Stelle sicher, dass der [BOFA Luftfilter](http://wiki.zurich.fablab.ch/BOFA_AD2000_iQ) eingeschaltet ist.
 
 Schliesse immer den Deckel vor dem Schneiden.
 
