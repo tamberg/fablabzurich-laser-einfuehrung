@@ -66,14 +66,14 @@ Stelle Geschwindigkeit und Stärke ein.
 
 Setze den Fokus und den Urpsrung.
 
-### Bleibe Gesund!
+### Bleibe Gesund
 Stelle sicher, dass der [Luftfilter](http://wiki.zurich.fablab.ch/BOFA_AD2000_iQ) eingeschaltet ist.
 
 Schliesse immer den Deckel vor dem Schneiden.
 
 Lasse den Laser nie unbeaufsichtigt laufen.
 
-### Gib nicht auf!
+### Gib nicht auf
 Passe Dein Design und die Einstellungen an, versuch's nochmal.
 
 Gib nicht auf, Du wirst es schaffen :)
