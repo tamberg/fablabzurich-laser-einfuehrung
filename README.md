@@ -50,7 +50,7 @@ Setze _Object > Fill and stroke >_ [stroke width](https://inkscape-manuals.readt
 
 Wähle _View > Display mode > [x] Visible hairlines_ an.
 
-### Kreiere Dein Design
+### Erstelle Dein Design
 Zeichne einige [Rechtecke](https://inkscape-manuals.readthedocs.io/en/latest/squares-and-rectangles.html) und [Kreise](https://inkscape-manuals.readthedocs.io/en/latest/circles-ellipses-and-arcs.html).
 
 [Richte diese aus und verteile sie](https://inkscape-manuals.readthedocs.io/en/latest/align-and-distribute.html).
@@ -66,12 +66,12 @@ Stelle Geschwindigkeit und Stärke ein.
 
 Setze den Fokus und den Urpsrung.
 
-### Stay safe
-Make sure the [air filter](http://wiki.zurich.fablab.ch/BOFA_AD2000_iQ) is switched on.
+### Achtung
+Stelle sicher, dass der [Luftfilter](http://wiki.zurich.fablab.ch/BOFA_AD2000_iQ) eingeschaltet ist.
 
-Always close the lid before cutting.
+Schliesse immer den Deckel vor dem Schneiden.
 
-Never leave the laser unattended.
+Lasse den Laser nie unbeaufsichtigt.
 
 ### Iterate...
 Adapt your design and your settings, try again.
