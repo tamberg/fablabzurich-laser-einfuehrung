@@ -22,7 +22,7 @@ Der Laser-Cutter kann eine Linie entweder schneiden oder gravieren.
 
 Falls Du beides brauchst, verwende verschiedene Farben.
 
-## Der einfachste Weg
+## Runterladen und lasern lassen
 So dauert's etwa 15 Minuten, falls ein Laser frei ist.
 
 ### Lade ein Design runter
@@ -35,7 +35,7 @@ Unsere Laser Software liest DXF, SVG oder PDF Dateien.
 ### Schneide das Design
 Frage die Labmanager*in um Hilfe mit dem Laser.
 
-## Der schwierigere Weg
+## Selber zeichnen und lasern
 So dauert's mehr als 30 Minuten, ist aber Deine Zeit wert.
 
 ### Installiere 2D Design Software
