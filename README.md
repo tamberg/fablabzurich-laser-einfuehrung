@@ -28,7 +28,7 @@ Dieser Weg sollte etwa 15 Minuten dauern, falls ein Laser frei ist.
 ### Lade ein Design runter
 Lade ein Design runter, z.B. von https://www.thingiverse.com/tag:laser
 
-Oder nutze einen Generator, z.B. für [Schachteln](https://ddg.co/?q=box+generator) (mit _mm_).
+Oder nutze einen Design Generator, z.B. für [Schachteln](https://ddg.co/?q=box+generator) (in _mm_).
 
 Unsere Laser Software versteht Dateien im DXF, SVG oder PDF Format.
 
