@@ -53,7 +53,7 @@ Wähle _View > Display mode > [x] Visible hairlines_ an.
 ### Kreiere Dein Design
 Zeichne einige [Rechtecke](https://inkscape-manuals.readthedocs.io/en/latest/squares-and-rectangles.html) und [Kreise](https://inkscape-manuals.readthedocs.io/en/latest/circles-ellipses-and-arcs.html).
 
-[Aligniere und Verteile](https://inkscape-manuals.readthedocs.io/en/latest/align-and-distribute.html) diese.
+[Richte diese aus und verteile sie](https://inkscape-manuals.readthedocs.io/en/latest/align-and-distribute.html).
 
 [Sichere als SVG](https://inkscape-manuals.readthedocs.io/en/latest/saving.html) oder [PDF](https://inkscape-manuals.readthedocs.io/en/latest/export-pdf.html).
 
