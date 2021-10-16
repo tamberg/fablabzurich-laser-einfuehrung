@@ -22,15 +22,15 @@ Der Laser-Cutter kann eine Linie entweder schneiden oder gravieren.
 
 Falls Du beides brauchst, verwende verschiedene Farben.
 
-## The easy way
-This takes about 15 minutes, if a laser cutter is available.
+## Der einfache Weg
+Dieser Weg sollte etwa 15 Minuten dauern, falls ein Laser frei ist.
 
-### Download a design
-Download a design e.g. from https://www.thingiverse.com/tag:laser
+### Lade ein Design runter
+Lade ein Design runter, z.B. von https://www.thingiverse.com/tag:laser
 
-Or use a parametric design tool, e.g. a [box generator](https://ddg.co/?q=box+generator) (use _mm_).
+Oder nutze ein parametrisches Designwerkzeug, z.B. einen [Bozen Generator](https://ddg.co/?q=box+generator) (mit _mm_).
 
-Our laser software works with DXF, SVG or PDF design files.
+Unsere Laser Software versteht Dateien im DXF, SVG oder PDF Format.
 
 ### Cut the design
 Ask the lab manager for help with the laser cutter.
