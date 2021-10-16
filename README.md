@@ -35,13 +35,13 @@ Unsere Laser Software liest DXF, SVG oder PDF Dateien.
 ### Schneide das Design
 Frage die Labmanager*in um Hilfe mit dem Laser.
 
-## The hard way
-This takes more than 30 minutes, but it's worth your time.
+## Der schwierigere Weg
+Dieser Weg dauert wohl mehr als 30 Minuten, ist aber Deine Zeit wert.
 
-### Install 2D design software
-[Download Inkscape](https://inkscape.org/), a free 2D design software.
+### Installiere 2D Design Software
+[Lade Inkscape runter](https://inkscape.org/), eine freie 2D Design Software.
 
-No laptop? Use one of our computers.
+Kein Laptop? Nutze einen unserer Computer.
 
 ### Set up Inkscape
 Set _File > Document properties >_ [display units](https://inkscape-manuals.readthedocs.io/en/latest/managing-workspace.html?#document-properties-dialog) to _mm_.
@@ -60,7 +60,7 @@ Draw some [squares](https://inkscape-manuals.readthedocs.io/en/latest/squares-an
 ### Schneide das Design
 Frage die Labmanager*in um Hilfe mit dem Laser.
 
-Notiere Dir alles und versuche es selbst.
+Notiere Dir alles und versuch's dann selbst.
 
 Stelle Geschwindigkeit und Stärke ein.
 
