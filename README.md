@@ -15,12 +15,12 @@ Wir haben einen [blauen AKJ AKJ_6090](http://wiki.zurich.fablab.ch/AKJ_6090) und
 
 Beide schneiden Platten von 600 x 900 mm, < 10 mm.
 
-## What's a design?
-A design (for a laser) is a vector based 2D drawing.
+## Was ist ein Design?
+Ein Design (für den Laser) ist eine Vektor-basierte 2D Zeichnung.
 
-The laser cutter can either cut or edge a line.
+Der Laser-Cutter kann Linien entweder schneiden oder gravieren.
 
-If you need both, use different colors.
+Falls Du beides brauchst, verwende verschiedene Farben.
 
 ## The easy way
 This takes about 15 minutes, if a laser cutter is available.
