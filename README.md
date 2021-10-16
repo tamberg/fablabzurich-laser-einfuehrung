@@ -30,7 +30,7 @@ Lade ein Design runter, z.B. von https://www.thingiverse.com/tag:laser
 
 Oder nutze einen Design Generator, z.B. für [Schachteln](https://ddg.co/?q=box+generator) (in _mm_).
 
-Unsere Laser Software versteht DXF, SVG oder PDF Dateien.
+Unsere Laser Software liest DXF, SVG oder PDF Dateien.
 
 ### Cut the design
 Ask the lab manager for help with the laser cutter.
