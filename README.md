@@ -32,8 +32,8 @@ Oder nutze einen Design Generator, z.B. für [Schachteln](https://ddg.co/?q=box+
 
 Unsere Laser Software liest DXF, SVG oder PDF Dateien.
 
-### Cut the design
-Ask the lab manager for help with the laser cutter.
+### Schneide das Design
+Frage die Labmanager*in um Hilfe mit dem Laser-Cutter.
 
 ## The hard way
 This takes more than 30 minutes, but it's worth your time.
